@@ -17,7 +17,8 @@ public class  DBConnection  {
 
         String url = "jdbc:mysql://localhost:3306/lamda";
         String user = "root";
-        String password = "Jeeliegh212@";
+        String password = "**********" +
+                "git ;
         //String databaseName = "lamda";
 
         // JDBC variables for opening, closing, and managing connection
